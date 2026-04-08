@@ -91,7 +91,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="click 'Download Report'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,194" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="7598d9dd-57a3-41c5-9d75-e7a391838cd9" Version="V5">
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Download Report'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,194" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="7598d9dd-57a3-41c5-9d75-e7a391838cd9" Version="V5">
               <uix:NClick.Target>
                 <uix:TargetAnchorable BrowserURL="acme-test.uipath.com/reports/download" ContentHash="foVsdENxoEmuIDzb1hfBIA" DesignTimeRectangle="184, 652, 134, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='buttonDownload' tag='BUTTON' /&gt;" Guid="7097794d-ec67-41ee-8681-25df528113fc" InformativeScreenshot="f1cc42ac56f108ab871c5960dd1f3e0e.jpg" Reference="SapywbRxAUia4HlNvBmyxg/7yZhGbgFbkaijhjyij7cNw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
               </uix:NClick.Target>

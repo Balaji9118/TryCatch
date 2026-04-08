@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V6ieTxPSIkmLWmq1DCjhpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" DesignTimeRectangle="115, 172, 60, 30" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Downloads' role='document' /&gt;&lt;ctrl name='Report-RO212121-2.csv' role='outline item' /&gt;&lt;ctrl name='Save as' role='push button' /&gt;" Guid="d673011a-5e5d-485a-966c-7446b6852b7f" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' idx='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="accbd9bbb33ce75330f324494d444056.jpg" xmlns="">0bdXe54Xhf0WHma9zP3USAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
